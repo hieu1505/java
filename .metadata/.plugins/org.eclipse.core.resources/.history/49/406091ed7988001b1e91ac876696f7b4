@@ -1,0 +1,7 @@
+package bai1;
+
+import javax.swing.JFrame;
+
+public class bai3 extends JFrame {
+
+}
